@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: DSPS-Package
+Version: 1.0
+Summary: Our first lovely tiny package
+Author: Anthony
+License: MIT
+License-File: LICENSE.txt
+Requires-Dist: PILLOW
+Requires-Dist: playsound
+Requires-Dist: requests

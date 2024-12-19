@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+setup.py
+DSPS_Package.egg-info/PKG-INFO
+DSPS_Package.egg-info/SOURCES.txt
+DSPS_Package.egg-info/dependency_links.txt
+DSPS_Package.egg-info/requires.txt
+DSPS_Package.egg-info/top_level.txt
+packagefiles/__init__.py
+packagefiles/love.py
+packagefiles/rainbow.py
+packagefiles/rocket.py
+packagefiles/simple.py

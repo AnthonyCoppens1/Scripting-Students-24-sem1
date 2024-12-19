@@ -1,0 +1,3 @@
+PILLOW
+playsound
+requests
